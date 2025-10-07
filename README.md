@@ -1,3 +1,3 @@
-# 24
+# 21
 
-The only successful partner
+A clone of 24
